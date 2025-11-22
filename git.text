@@ -1,0 +1,20 @@
+# See what changed
+git status
+
+# Add all changes
+git add .
+
+# Add specific file
+git add filename.js
+
+# Commit changes
+git commit -m "Your message here"
+
+# Push to GitHub
+git push origin main
+
+# Pull from GitHub
+git pull origin main
+
+# View commit history
+git log --oneline
